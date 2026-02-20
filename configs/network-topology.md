@@ -17,7 +17,7 @@ Management devices → Port 1-7 on switch → accesses pfSense at 192.168.1.1
 
 ## Logical Layout
 ```
-Virgin Media Router (192.168.0.1)
+ISP Router (192.168.0.1)
 └── Proxmox Host (192.168.0.10) — accessible via browser at :8006
 
     └── pfSense VM (WAN: 192.168.0.x, LAN: 192.168.1.1)
