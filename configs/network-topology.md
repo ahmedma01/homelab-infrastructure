@@ -12,7 +12,7 @@ Managed Switch
 ├── Port 1-7 — Access ports (untagged, PVID 1)
 └── Port 8   — Trunk port to Proxmox (tagged VLAN 40)
 
-MacBook → Port 1-7 on switch → accesses pfSense at 192.168.1.1
+Management devices → Port 1-7 on switch → accesses pfSense at 192.168.1.1
 ```
 
 ## Logical Layout
