@@ -26,5 +26,6 @@
 
 ### Cloudflare DNS Records
 <img width="1204" height="705" alt="Cloudflare DNS Records" src="https://github.com/user-attachments/assets/77f2253a-58ad-4313-ac57-5b214be69465" />
+
 ### DigitalOcean VPS
 <img width="1204" height="432" alt="droplet final" src="https://github.com/user-attachments/assets/93ac790a-ba09-4971-b0e2-76d193655266" />
