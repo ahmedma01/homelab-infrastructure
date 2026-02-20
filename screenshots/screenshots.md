@@ -7,25 +7,20 @@
 <img width="1457" height="769" alt="pfSense Dashboard" src="https://github.com/user-attachments/assets/b8092bed-8081-4698-ba3d-096d0cdaca49" />
 
 ### pfSense VLAN Interfaces
-<img width="1457" height="766" alt="pfSense VLAN Interfaces" src="https://github.com/user-attachments/assets/cb20809b-4795-45f7-98b5-faad3ce7937a" />
+<img width="1457" height="766" alt="pfsense vlan interfaces" src="https://github.com/user-attachments/assets/1ce5121d-93d1-4fdc-951d-7489c08b6e14" />
 
 ### DMZ Firewall Rules
-<img width="1457" height="766" alt="DMZ Firewall Rules" src="https://github.com/user-attachments/assets/41439334-6a72-46e4-8dd2-4229f1dc0b8f" />
+<img width="1457" height="766" alt="dmz firewall rules" src="https://github.com/user-attachments/assets/f79f25d6-f928-4b15-aa6c-e84a828e6790" />
 
 ### WireGuard VPN Status
 <img width="1457" height="766" alt="WireGuard VPN Status" src="https://github.com/user-attachments/assets/722a9660-40ad-42d5-9127-c68bd2e2eb6b" />
 
-### Nginx Proxy Manager — Proxy Hosts
-<img width="1457" height="766" alt="Nginx Proxy Hosts" src="https://github.com/user-attachments/assets/901912c2-2274-439b-b970-d77dc6b4b92b" />
-
-### Nginx Proxy Manager — Individual Host Config
-<img width="1457" height="766" alt="Nginx Individual Host Config" src="https://github.com/user-attachments/assets/41ba361e-73fe-44f1-aeb2-35aca74cb2f6" />
-
 ### Nginx Proxy Manager — Certificates
-<img width="1457" height="766" alt="Nginx Certificates" src="https://github.com/user-attachments/assets/d220a975-72c7-45db-9b71-b7a813dbf106" />
+<img width="1457" height="766" alt="nginx certifcate" src="https://github.com/user-attachments/assets/911a2c82-210d-466c-909d-9896eb96b3c1" />
 
 ### Cloudflare DNS Records
-<img width="1204" height="705" alt="Cloudflare DNS Records" src="https://github.com/user-attachments/assets/77f2253a-58ad-4313-ac57-5b214be69465" />
+<img width="1204" height="705" alt="Cloudflare DNS page showing your subdomain records " src="https://github.com/user-attachments/assets/ac34e0ea-2834-40e3-bc25-cdec4be00321" />
 
 ### DigitalOcean VPS
-<img width="1204" height="432" alt="droplet final" src="https://github.com/user-attachments/assets/93ac790a-ba09-4971-b0e2-76d193655266" />
+<img width="1257" height="907" alt="droplet real final" src="https://github.com/user-attachments/assets/d2a999d7-e51d-4c51-86f7-0af2eb42fe6d" />
+
