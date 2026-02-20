@@ -49,16 +49,7 @@ firewall configuration, containerisation, and secure service exposure.
 <img width="1457" height="769" alt="pfsene dash board" src="https://github.com/user-attachments/assets/d32ef2fb-64d2-4c11-9ec6-7df8598ff436" />
 
 
-### DMZ VLAN Firewall Rules
-<img width="1457" height="766" alt="dmz firewall rules" src="https://github.com/user-attachments/assets/0d7c3f5b-a9e1-435a-a2c3-f8c9e3209d85" />
-
-
-### Nginx Proxy Manager — Proxy Hosts
-<img width="1457" height="766" alt="nginx proxy hosts" src="https://github.com/user-attachments/assets/1b3bbd3a-4151-4d9c-80a1-4daf28125a19" />
-
-
-### Nginx Proxy Manager — Certificates
-<img width="1457" height="766" alt="nginx certifcate" src="https://github.com/user-attachments/assets/87d58760-4c82-4a67-8542-fbbfc385beb4" />
+> 📁 Additional screenshots (VLAN config, firewall rules, WireGuard, Nginx, Cloudflare) available in the [screenshots folder](./screenshots/)
 
 
 ## 📐 How It Works
