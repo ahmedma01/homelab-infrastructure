@@ -4,7 +4,7 @@
 <img width="1920" height="890" alt="Proxmox Dashboard" src="https://github.com/user-attachments/assets/dab4a660-d58a-4fd2-99db-7d137a60ea30" />
 
 ### pfSense Dashboard
-<img width="1457" height="769" alt="pfSense Dashboard" src="https://github.com/user-attachments/assets/b8092bed-8081-4698-ba3d-096d0cdaca49" />
+<img width="1457" height="769" alt="pfsense dashboard final" src="https://github.com/user-attachments/assets/4db18caf-6d24-4363-8cb7-bd808e47eac4" />
 
 ### pfSense VLAN Interfaces
 <img width="1457" height="766" alt="pfsense vlan interfaces" src="https://github.com/user-attachments/assets/1ce5121d-93d1-4fdc-951d-7489c08b6e14" />
