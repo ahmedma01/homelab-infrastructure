@@ -46,7 +46,7 @@ firewall configuration, containerisation, and secure service exposure.
 
 
 ### pfSense Firewall Dashboard
-<img width="1457" height="769" alt="pfsene dash board" src="https://github.com/user-attachments/assets/d32ef2fb-64d2-4c11-9ec6-7df8598ff436" />
+<img width="1457" height="769" alt="pfsense dashboard final" src="https://github.com/user-attachments/assets/33e9a656-3e7c-4bb4-8f31-58009051bed2" />
 
 
 > 📁 Additional screenshots (VLAN config, firewall rules, WireGuard, Nginx, Cloudflare) available in the [screenshots folder](./screenshots/)
