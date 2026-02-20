@@ -62,8 +62,7 @@ firewall configuration, containerisation, and secure service exposure.
 
 ## Future Improvements
 - Deploy a SIEM (Wazuh or Elastic Stack) to monitor internal traffic and generate alerts
-- Add an IDS/IPS (Suricata) inside pfSense for deep packet inspection
-- Set up automated backups of VMs to an offsite location
+- Add an IDS/IPS (Suricata) inside pfSense for packet inspection
 - Expand VLAN structure to include an IoT isolation segment
 - Deploy a self-hosted password manager (Vaultwarden) in the DMZ
 
